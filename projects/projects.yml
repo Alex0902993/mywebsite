@@ -1,32 +1,97 @@
-- title: Predicting House Prices with Machine Learning
-  path: https://example.com/house-prices
-  # Photo by Breno Assis on Unsplash https://unsplash.com/photos/aerial-photography-of-rural-r3WAWU5Fi5Q 
-  image: images/breno-assis-r3WAWU5Fi5Q-unsplash.jpg
+- title: "Cyberchondria and Questionable Health Practices: The Mediation Role of Conspiracy Mentality"
+  author: "Vujić, A., Dinić, B. M., & Jokić-begić, N."  
+  path: https://doi.org/10.31577/sp.2022.01.842
   description: >
-    This project involves using machine learning algorithms to predict house prices based on
-    various features such as location, size, and amenities. It includes data cleaning,
-    feature engineering, and model selection.
-  categories: [Python, Machine Learning, Data Cleaning]
-  date: 2024-01-01
+    The first objective of this study was to test the factor structure, reliability, and convergent validity of Serbian adaptations of the Cyberchondria Severity Scale (CSS-12) and the Short Cyberchondria Scale (SCS). The second aim was to test the direct effects of cyberchondria on pseudoscientific practices (PSP) and the use of complementary/alternative medicine (CAM) as well as its indirect effects through conspiracy mentality (CMQ). 
+  categories: [cyberchondria, complementary/alternative medicine, pseudoscientific practices, conspiracy mentality]
+  date: 2022-16-03
+  
+- title: "Hedonic use, stress, and life satisfaction as predictors of smartphone addiction"
+  author: "Vujić, A., & Szabo, A."  
+  path: https://doi.org/10.1016/j.abrep.2022.100411
+  description: >
+    Based on the compensatory internet use theory, hedonic or non-utilitarian smartphone use might be associated with SA. The study concludes that being female, hedonic smartphone use, and perceived life stress predict SA. 
+  categories: [Behavioral addiction, Cyberchondria, Intolerance of uncertainty, Problematic smartphone Use, Smartphone addiction]
+  date: 2023-05-03
+  
+- title: "Are Cyberchondria and Intolerance of Uncertainty Related to Smartphone Addiction?"
+  author: "Vujić, A., Volarov, M., Latas, M., Demetrovics, Z., Kiraly, O., & Szabo, A. "  
+  path: https://doi.org/10.1007/s11469-023-01054-6
+  description: >
+    Based on the compensatory internet use theory, hedonic or non-utilitarian smartphone use might be associated with SA. The study concludes that being female, hedonic smartphone use, and perceived life stress predict SA. 
+  categories: [Dependence, Entertainment, Internet, Leisure, Mobile phone]
+  date: 2022-06-01
+  
+- title: "Properties of the Serbian Smartphone Application-Based Addiction Scale (SABAS) and Validation of the English Version Among Non-native English Speakers."
+  author: "Vujić, A., Volarov, M., Latas, M., Griffiths, M. D., & Szabo, A."  
+  path: https://doi.org/10.1007/s11469-023-01013-1
+  description: >
+    Based on the study’s findings, the Serbian version of SABAS is a reliable and valid measure for screening the risk of smartphone addiction. Moreover, the English version can be used among non-native Serbian English speakers. 
+  categories: [Behavioural addiction, Mobile phone, Psychometric, Smartphone addiction, Validation, SABAS]
+  date: 2023-03-27
 
-- title: Customer Segmentation Using Clustering Techniques
-  path: https://example.com/customer-segmentation
-  # Photo by Adrien Delforge on Unsplash  https://unsplash.com/photos/man-in-black-long-sleeve-shirt-and-black-pants-standing-on-shopping-cart-CrHG_ZYn1Dw
-  image: images/adrien-delforge-CrHG_ZYn1Dw-unsplash.jpg
+- title: "Psychometric Validation of the Modified, Short Version of the Problematic Pornography Consumption Scale in Serbian"
+  author: "Volarov, M., Vujić, A., Adamović Zdravković, S., Kuruzović, N., Bőthe, B., & Szabo, A."  
+  path: https://www.tandfonline.com/doi/full/10.1080/26929953.2024.2448110
   description: >
-    This project focuses on segmenting customers into different groups based on their
-    purchasing behavior and demographics. It uses clustering algorithms like K-means and
-    hierarchical clustering to identify distinct customer segments.
-  categories: [R, Machine Learning, Clustering, Statistical Modelling]
-  date: 2024-04-01
+    The Serbian modified version of the PPCS-6 appears to be a valid and reliable scale for screening PPU.
+  categories: [pornography, PPUSC, problematic use]
+  date: 2025-01-03
 
-- title: Visualizing Global CO2 Emissions
-  path: https://example.com/co2-visualization
-  # Photo by Anne Nygård on Unsplash https://unsplash.com/photos/white-clouds-in-blue-sky-vc-vPgGqAr4
-  image: images/anne-nygard-vc-vPgGqAr4-unsplash.jpg
+- title: "Psychometric Properties of the Hungarian Passion Scale-8 (PS-8-HU) in Physically Active and Inactive Adults"
+  author: "Árok, P., Morvay-Sey, K., Vujić, A., & Szabo, A."  
+  path: https://doi.org/10.1177/00315125241296611
   description: >
-    This project involves creating visualizations to show trends in global CO2 emissions
-    over time. It includes data extraction from public databases, data cleaning, and using
-    visualization libraries to create interactive charts and graphs.
-  categories: [R, Data Visualization, Environmental Science]
-  date: 2024-07-01
+    The PS-8-HU also exhibited good concurrent and construct validities, high homogeneity, and adequate discriminant validity.
+  categories: [Passion Scale, PS-8-HU, Hungarian, Physical activity]
+  date: 2024-10-25
+
+- title: "Cross–cultural Validity of the Reactive–Proactive Aggression Questionnaire Among Adults Across Five Countries"
+  author: "Dinić, B. M., Raine, A., Vujić, A., & Van Dongen, J. D. M."  
+  path: https://doi.org/10.1177/0886260520966672
+  description: >
+    This is the first study in which cross-cultural validation of the RPQ among adults has been tested and results suggested that there are some cultural differences in expression of proactive aggression.
+  categories: [Reactive, Proactive agreession, RPQ, Cross-cultural]
+  date: 2020-10-16
+
+- title: "Five-Factor Model Best Describes Narcissistic Personality Inventory Across Different Item Response Formats"
+  author: "Dinić, B. M., & Vujić, A."  
+  path: https://doi.org/10.1177/0033294118794404
+  description: >
+    This is the first study in which cross-cultural validation of the RPQ among adults has been tested and results suggested that there are some cultural differences in expression of proactive aggression.
+  categories: [Narcissism, NPI, Response format]
+  date: 2018-08-16
+
+- title: "The Pathological Narcissism Inventory: Measurement Invariance Across Serbian and USA Samples and Further Validation"
+  author: "Dinić, B. M., & Vujić, A."  
+  path: https://doi.org/10.1027/1015-5759/a000537
+  description: >
+    The main distinctions between the two aspects of narcissism lie in the positive relations with Neuroticism and negative relations with self-esteem, both of which are higher for Narcissistic vulnerability. The results support good psychometric properties of the PNI scores and add to the PNI’s cross-cultural validity.
+  categories: [Narcissism, PNI, Serbian, US, invariance]
+  date: 2019-09-06
+
+- title: "Psychometric evaluation and validation of the Hungarian version of the Physical Activity Affect Scale (PAAS-H)"
+  author: "Köteles, F., Vujić, A., & Szabo, A."  
+  path: https://doi.org/10.1556/0406.2024.00059
+  description: >
+    The Hungarian PAAS could assess exercise-induced affect in a reliable and valid way in recreationalexercisers. However, its validity in competitive sports remains to be tested.
+  categories: [affect, exercise, feeling, leisure, training, confirmatory factor analysis, measurement invariance]
+  date: 2024-10-22
+
+- title: "Exercise Addiction Inventory-3 (EAI-3): Psychometric properties of the Hungarian version"
+  author: "Szabo, A., Árok, P., Vujić, A., Morvay-Sey, K., & Granziol, U."  
+  path: https://doi.org/10.1556/0406.2024.00064
+  description: >
+    The 8-item single factor EAI-3-HU adequately assesses the Hungarian samples’ REA. Nevertheless, it should be kept in perspective that the revised tool, like its predecessors, only assesses a level of ‘risk’, which does not imply morbidity, thus it has no clinical diagnostic value.
+  categories: [abehavioral addiction, exercise addiction, Exercise Addiction Inventory, reliability, validity]
+  date: 2024-10-22
+
+- title: "Exercise Addiction Inventory-3 (EAI-3): Psychometric properties of the Hungarian version"
+  author: "Szabo, A., Árok, P., Vujić, A., Morvay-Sey, K., & Granziol, U."  
+  path: https://doi.org/10.1556/0406.2024.00064
+  description: >
+    The 8-item single factor EAI-3-HU adequately assesses the Hungarian samples’ REA. Nevertheless, it should be kept in perspective that the revised tool, like its predecessors, only assesses a level of ‘risk’, which does not imply morbidity, thus it has no clinical diagnostic value.
+  categories: [abehavioral addiction, exercise addiction, Exercise Addiction Inventory, reliability, validity]
+  date: 2024-10-22
+
+

@@ -1,0 +1,5 @@
+---
+title: "Blog"
+listing: default # see other options https://www.youtube.com/watch?v=bv_Cw-3HI1Y
+---
+

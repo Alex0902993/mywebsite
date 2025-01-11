@@ -18,8 +18,11 @@ website:
         href: contact.qmd
         icon: telephone
       - text: My Publications
-        href: my_publications.qmd
+        href: projects/index.qmd
         icon: book
+      - text: Blog
+        href: blog/index.qmd
+        icon: pencil
       
         
       
