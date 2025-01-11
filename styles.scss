@@ -1,0 +1,82 @@
+/*-- scss:defaults --*/
+
+// Sass Variables
+// https://quarto.org/docs/output-formats/html-themes.html#sass-variables
+
+/* Colors */
+
+$theme-yellow: rgb(248, 249, 243);
+$theme-mint: #2596be;
+$theme-black: black;
+$theme-grey: rgb(55, 58, 60);
+$theme-blue: #DEEFF5;
+
+$body-bg: $theme-yellow;
+$body-color: $theme-grey;
+$link-color: $theme-mint;
+$footer-bg: $theme-blue;
+$navbar-bg: $theme-blue;
+
+
+/* Fonts */
+$font-family-sans-serif: "Source Sans Pro", -apple-system, "system-ui", "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+$font-size-root: 15px;
+
+#quarto-sidebar {
+  background-color: $theme-blue;
+  color: $theme-grey;
+  text-color: $theme-grey;
+}
+
+
+.menu-text {
+  color: $theme-grey;
+}
+
+.year-text {
+  color: grey;
+}
+
+.profession-text {
+  color: $theme-mint;
+}
+
+.footer-text {
+  font-size: 15px;
+}
+
+.nav-footer-center {
+  text-align: center;
+  padding-top: 1em;
+}
+
+
+
+/*--SCSS Rules --*/
+
+/*
+body {
+  padding-left: 2em;
+  padding-right: 2em;
+}
+*/
+
+/*
+#quarto-content {
+  padding: 1em;
+  grid-column: screen-start/screen-end;
+  grid-row: contents-top/contents-bottom;
+  grid-template-columns: 2fr 1fr 1fr 2fr;
+}
+
+
+#quarto-document-content {
+  margin-right: 2em;
+  margin-left: 2em;
+}
+
+.about-entity {
+  margin-left: 2em;
+  padding-right: 0;
+}
+*/

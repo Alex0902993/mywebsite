@@ -1,0 +1,17 @@
+{
+  "hash": "74ed3bc10cffa2c97d65800acc73fea2",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Publications\"\noutput: html_document\nbibliography: Moje.bib\ncsl: apa.csl\n---\n\n\n\n# References",
+    "supporting": [
+      "my_publications_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

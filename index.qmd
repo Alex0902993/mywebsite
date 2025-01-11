@@ -1,0 +1,20 @@
+---
+title: "Aleksandar Vujić"
+subtitle: <span class="profession-text">psychologist | statistician</span>
+image: vujic_photo.jpeg
+about: # https://quarto.org/docs/websites/website-about.html
+  template: solana
+  image-shape: rounded
+  links:
+    - icon: fa-brand fa-orcid
+      text: ORCiD
+      href: https://orcid.org/0000-0002-5235-114X
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/aleksandar-vujic/
+---
+
+
+This will be my personal website. I am sick of not being able to find a job. Not decent job, any job!
+I am about to finish my PhD in psychology - problematic smartphone use, that is. I do stats in R, sometimes in SPSS and JASP. I am learning Python and Web development, not extremely succesfully. 
+I like SF, Religion talks, and stupid jokes. I used to enjoy music, but not so much anymore. 

@@ -1,0 +1,32 @@
+{
+  "index.qmd": {
+    "index.html": "7d20a50d"
+  },
+  "blog/first-post/index.qmd": {
+    "index.html": "34b84b41"
+  },
+  "blog/second-post/index.qmd": {
+    "index.html": "e6885f72"
+  },
+  "blog/third-post/index.ipynb": {
+    "index.html": "6912a0b4"
+  },
+  "projects/index.qmd": {
+    "index.html": "5894e416"
+  },
+  "contact.qmd": {
+    "contact.html": "df71ed1e"
+  },
+  "publications.qmd": {
+    "publications.html": "3be95035"
+  },
+  "my_publications.qmd": {
+    "my_publications.html": "cafb24ef"
+  },
+  "my_publications.Rmd": {
+    "my_publications.html": "f795f84a"
+  },
+  "CV.qmd": {
+    "CV.html": "261684b6"
+  }
+}
