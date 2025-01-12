@@ -4,6 +4,13 @@ title: Professional Summary
 
 Responsible and reliable psychologist and researcher, highly motivated to gather knowledge and assimilate new concepts in teaching, customer support, HR, statistics, data science, analytics as well as in communications. Ready to contribute to the collective progress and the well-being of its members.
 
+## Skills
+
+ + R
+ + Python
+ + SPSS
+ + Psychometrics
+
 ## Education
 
 Eotvos Lorand University \| Budapest, Hungary \| <span class="year-text">2020 - 2025</span><br>
@@ -31,3 +38,10 @@ Military Medical Center, Novi Sad \| psychology intern
 Preschool Institution in Novi Sad  \| psychology intern
 
 Geriatric Center Novi Sad  \| psychology intern
+
+## Languages
+
+ + Serbian
+ + English
+ + Russian
+ + Chinese

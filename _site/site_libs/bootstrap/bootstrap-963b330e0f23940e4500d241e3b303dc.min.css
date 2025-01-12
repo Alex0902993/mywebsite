@@ -1,4 +1,4 @@
-#quarto-sidebar{background-color:#3e5879;color:#373a3c;text-color:#373a3c}.menu-text{color:#fff}.year-text{color:gray}.profession-text{color:#2596be}.footer-text{font-size:15px}.nav-footer-center{text-align:center;padding-top:1em}/*!
+#quarto-sidebar{background-color:#3e5879;color:#373a3c;text-color:#373a3c}.navbar .nav-link:hover,.navbar .nav-link:hover i,.navbar .nav-link:hover span.menu-text{transition:all .3s ease;color:#2596be !important;text-decoration:none}.project-title:hover{color:#2596be;text-decoration:underline}.menu-text{color:#fff}.year-text{color:gray}.profession-text{color:#2596be}.footer-text{font-size:15px}.nav-footer-center{text-align:center;padding-top:1em}/*!
  * Bootstrap  v5.3.1 (https://getbootstrap.com/)
  * Copyright 2011-2023 The Bootstrap Authors
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)

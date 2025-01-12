@@ -1,4 +1,4 @@
-- title: "Cyberchondria and Questionable Health Practices: The Mediation Role of Conspiracy Mentality"
+- title: "<span class='project-title'>Cyberchondria and Questionable Health Practices: The Mediation Role of Conspiracy Mentality</span>"
   author: "Vujić, A., Dinić, B. M., & Jokić-begić, N."  
   path: https://doi.org/10.31577/sp.2022.01.842
   description: >
@@ -6,7 +6,7 @@
   categories: [cyberchondria, complementary/alternative medicine, pseudoscientific practices, conspiracy mentality]
   date: 2022-16-03
   
-- title: "Hedonic use, stress, and life satisfaction as predictors of smartphone addiction"
+- title: "<span class='project-title'>Hedonic use, stress, and life satisfaction as predictors of smartphone addiction</span>"
   author: "Vujić, A., & Szabo, A."  
   path: https://doi.org/10.1016/j.abrep.2022.100411
   description: >
@@ -14,7 +14,7 @@
   categories: [Behavioral addiction, Cyberchondria, Intolerance of uncertainty, Problematic smartphone Use, Smartphone addiction]
   date: 2023-05-03
   
-- title: "Are Cyberchondria and Intolerance of Uncertainty Related to Smartphone Addiction?"
+- title: "<span class='project-title'>Are Cyberchondria and Intolerance of Uncertainty Related to Smartphone Addiction?</span>"
   author: "Vujić, A., Volarov, M., Latas, M., Demetrovics, Z., Kiraly, O., & Szabo, A. "  
   path: https://doi.org/10.1007/s11469-023-01054-6
   description: >
@@ -22,7 +22,7 @@
   categories: [Dependence, Entertainment, Internet, Leisure, Mobile phone]
   date: 2022-06-01
   
-- title: "Properties of the Serbian Smartphone Application-Based Addiction Scale (SABAS) and Validation of the English Version Among Non-native English Speakers."
+- title: "<span class='project-title'>Properties of the Serbian Smartphone Application-Based Addiction Scale (SABAS) and Validation of the English Version Among Non-native English Speakers</span>"
   author: "Vujić, A., Volarov, M., Latas, M., Griffiths, M. D., & Szabo, A."  
   path: https://doi.org/10.1007/s11469-023-01013-1
   description: >
@@ -30,7 +30,7 @@
   categories: [Behavioural addiction, Mobile phone, Psychometric, Smartphone addiction, Validation, SABAS]
   date: 2023-03-27
 
-- title: "Psychometric Validation of the Modified, Short Version of the Problematic Pornography Consumption Scale in Serbian"
+- title: "<span class='project-title'>Psychometric Validation of the Modified, Short Version of the Problematic Pornography Consumption Scale in Serbian</span>"
   author: "Volarov, M., Vujić, A., Adamović Zdravković, S., Kuruzović, N., Bőthe, B., & Szabo, A."  
   path: https://www.tandfonline.com/doi/full/10.1080/26929953.2024.2448110
   description: >
@@ -38,7 +38,7 @@
   categories: [pornography, PPUSC, problematic use]
   date: 2025-01-03
 
-- title: "Psychometric Properties of the Hungarian Passion Scale-8 (PS-8-HU) in Physically Active and Inactive Adults"
+- title: "<span class='project-title'>Psychometric Properties of the Hungarian Passion Scale-8 (PS-8-HU) in Physically Active and Inactive Adults</span>"
   author: "Árok, P., Morvay-Sey, K., Vujić, A., & Szabo, A."  
   path: https://doi.org/10.1177/00315125241296611
   description: >
@@ -46,7 +46,7 @@
   categories: [Passion Scale, PS-8-HU, Hungarian, Physical activity]
   date: 2024-10-25
 
-- title: "Cross–cultural Validity of the Reactive–Proactive Aggression Questionnaire Among Adults Across Five Countries"
+- title: "<span class='project-title'>Cross–cultural Validity of the Reactive–Proactive Aggression Questionnaire Among Adults Across Five Countries</span>"
   author: "Dinić, B. M., Raine, A., Vujić, A., & Van Dongen, J. D. M."  
   path: https://doi.org/10.1177/0886260520966672
   description: >
@@ -54,7 +54,7 @@
   categories: [Reactive, Proactive agreession, RPQ, Cross-cultural]
   date: 2020-10-16
 
-- title: "Five-Factor Model Best Describes Narcissistic Personality Inventory Across Different Item Response Formats"
+- title: "<span class='project-title'>Five-Factor Model Best Describes Narcissistic Personality Inventory Across Different Item Response Formats</span>"
   author: "Dinić, B. M., & Vujić, A."  
   path: https://doi.org/10.1177/0033294118794404
   description: >
@@ -62,7 +62,7 @@
   categories: [Narcissism, NPI, Response format]
   date: 2018-08-16
 
-- title: "The Pathological Narcissism Inventory: Measurement Invariance Across Serbian and USA Samples and Further Validation"
+- title: "<span class='project-title'>The Pathological Narcissism Inventory: Measurement Invariance Across Serbian and USA Samples and Further Validation</span>"
   author: "Dinić, B. M., & Vujić, A."  
   path: https://doi.org/10.1027/1015-5759/a000537
   description: >
@@ -70,7 +70,7 @@
   categories: [Narcissism, PNI, Serbian, US, invariance]
   date: 2019-09-06
 
-- title: "Psychometric evaluation and validation of the Hungarian version of the Physical Activity Affect Scale (PAAS-H)"
+- title: "<span class='project-title'>Psychometric evaluation and validation of the Hungarian version of the Physical Activity Affect Scale (PAAS-H)</span>"
   author: "Köteles, F., Vujić, A., & Szabo, A."  
   path: https://doi.org/10.1556/0406.2024.00059
   description: >
@@ -78,7 +78,7 @@
   categories: [affect, exercise, feeling, leisure, training, confirmatory factor analysis, measurement invariance]
   date: 2024-10-22
 
-- title: "Exercise Addiction Inventory-3 (EAI-3): Psychometric properties of the Hungarian version"
+- title: "<span class='project-title'>Exercise Addiction Inventory-3 (EAI-3): Psychometric properties of the Hungarian version</span>"
   author: "Szabo, A., Árok, P., Vujić, A., Morvay-Sey, K., & Granziol, U."  
   path: https://doi.org/10.1556/0406.2024.00064
   description: >
@@ -86,12 +86,34 @@
   categories: [abehavioral addiction, exercise addiction, Exercise Addiction Inventory, reliability, validity]
   date: 2024-10-22
 
-- title: "Exercise Addiction Inventory-3 (EAI-3): Psychometric properties of the Hungarian version"
+- title: "<span class='project-title'>Exercise Addiction Inventory-3 (EAI-3): Psychometric properties of the Hungarian version</span>"
   author: "Szabo, A., Árok, P., Vujić, A., Morvay-Sey, K., & Granziol, U."  
   path: https://doi.org/10.1556/0406.2024.00064
   description: >
     The 8-item single factor EAI-3-HU adequately assesses the Hungarian samples’ REA. Nevertheless, it should be kept in perspective that the revised tool, like its predecessors, only assesses a level of ‘risk’, which does not imply morbidity, thus it has no clinical diagnostic value.
   categories: [abehavioral addiction, exercise addiction, Exercise Addiction Inventory, reliability, validity]
   date: 2024-10-22
+  
+- title: "<span class='project-title'>A Fullerton Functional Fitness Test-based exercise intervention for older adults yields quick physical and psychological benefits</span>"
+  author: "Toth, E. E., Vujić, A., Ihász, F., Ruíz-Barquín, R., & Szabo, A."  
+  path: https://doi.org/10.1016/j.ctcp.2024.101880
+  description: >
+    The here-employed 16-week exercise program, targeting the test elements of the FFFT, efficiently induced physical and mental improvements in older adults.
+  categories: [ageing, exercise, objective measures, physical activity, subjective measures]
+  date: 2024-07-02
 
+- title: "<span class='project-title'>Psychological Resilience and Complex Movement Coordination Predict the Risk of Falls in Older Adults</span>"
+  author: "Toth, E. E., Vujić, A., Ihász, F., Ruíz-Barquín, R., & Szabo, A."  
+  path: https://doi.org/10.1007/s12062-024-09471-8
+  description: >
+    These results suggest that complex movement coordination-developing and resilience-enhancing training strategies might be beneficial in reducing the ROF in older adults.
+  categories: [falling, fitness, functionality, mental health, physical condition]
+  date: 2024-03-30
 
+- title: "<span class='project-title'>Functional fitness and psychological well-being in older adults</span>"
+  author: "Toth, E. E., Vujić, A., Ihász, F., Ruíz-Barquín, R., & Szabo, A."  
+  path: https://doi.org/10.1186/s12877-024-05654-2
+  description: >
+    These findings should stimulate research on the mechanism connecting functional fitness with PWB in older adults. Further, apart from their novelty, the findings could be valuable in providing directions for physical fitness intervention programs targeting mental and physical health for older people.
+  categories: [Ageing, Exercise, Fitness, Functionality, Mental health]
+  date: 2025-01-04

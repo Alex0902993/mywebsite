@@ -14,14 +14,11 @@ website:
       - text: CV
         href: CV.qmd
         icon: person
-      - text: Contact Me
-        href: contact.qmd
-        icon: telephone
       - text: My Publications
-        href: projects/index.qmd
+        href: projects/
         icon: book
       - text: Blog
-        href: blog/index.qmd
+        href: blog/
         icon: pencil
       
         

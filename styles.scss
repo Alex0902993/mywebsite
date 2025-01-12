@@ -22,12 +22,28 @@ $navbar-bg: $theme-blue;
 $font-family-sans-serif: "Source Sans Pro", -apple-system, "system-ui", "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 $font-size-root: 15px;
 
+
+/* Colors */
 #quarto-sidebar {
   background-color: $theme-blue;
   color: $theme-grey;
   text-color: $theme-grey;
 }
 
+// Navbar hover
+.navbar .nav-link:hover,
+.navbar .nav-link:hover i, 
+.navbar .nav-link:hover span.menu-text {
+    transition: all 0.3s ease; /* Smooth transition for hover effects */
+    color: $theme-mint !important; /* Desired hover color */
+    text-decoration: none;    /* Optional: Remove underline on hover */
+}
+
+// Publications title hover
+.project-title:hover {
+    color: $theme-mint; 
+    text-decoration: underline; 
+}
 
 .menu-text {
   color: white;

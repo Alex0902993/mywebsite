@@ -1,6 +1,0 @@
----
-title: Contact
----
-
-
-## Some contact goes here
