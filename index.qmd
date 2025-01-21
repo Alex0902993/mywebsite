@@ -20,7 +20,7 @@ I am about to finish my PhD in psychology - problematic smartphone use, that is.
 
 <div>
 
-  <img src="envelope-regular.svg" alt="email" style="height: 1em;"> aleksandar.vujic@yandex.com
+  <img src="envelope-regular.svg" alt="email" style="height: 1em;"> aleksandar.vujic@mail.com
   
 </div>
 

@@ -25,7 +25,9 @@ website:
       
 format:
   html:
+    include-in-header: _custom_meta.html
     fontsize: 18px
     theme: [trestles, styles.scss]
+    toc: true
   
 
