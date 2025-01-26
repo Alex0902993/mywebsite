@@ -1,0 +1,22 @@
+---
+title: "Conferences"
+---
+
+<table>
+  <tr>
+    <td>European Conference on Innovation Management, Budapest - participation</td>
+    <td><span class="year-text">2024</span></td>
+  </tr>
+  <tr>
+    <td>Sport Tudomány–Egészség Konferencia (VI.) – presentation</td>
+    <td><span class="year-text">2023</span></td>
+  </tr>
+  <tr>
+    <td>International Training School on Problematic Internet Usage, COST Action</td>
+    <td><span class="year-text">2020</span></td>
+  </tr>
+  <tr>
+    <td>Current Trends in Psychology Conference – poster presentation</td>
+    <td><span class="year-text">2017</span></td>
+  </tr>
+</table>

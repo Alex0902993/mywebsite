@@ -17,9 +17,9 @@ website:
       - text: My Publications
         href: projects/
         icon: book
-      - text: Blog
-        href: blog/
-        icon: pencil
+      - text: Conferences
+        href: conf/
+        icon: easel2
       
         
       
