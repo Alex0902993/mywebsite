@@ -3,9 +3,6 @@
 // Sass Variables
 // https://quarto.org/docs/output-formats/html-themes.html#sass-variables
 
-// fontawesome link
-@import url(https://use.fontawesome.com/releases/v6.1.1/css/all.css); 
-
 /* Colors */
 
 $theme-yellow: rgb(248, 249, 243);
@@ -13,7 +10,6 @@ $theme-mint: #2596be;
 $theme-black: black;
 $theme-grey: rgb(55, 58, 60);
 $theme-blue: rgb(62, 88, 121);
-
 
 $body-bg: $theme-yellow;
 $body-color: $theme-grey;
@@ -33,21 +29,6 @@ $font-size-root: 15px;
   color: $theme-grey;
   text-color: $theme-grey;
 }
-
-<<<<<<< HEAD
-/* certificate hyperlink */
-.certlink {
-  color: $theme-black;
-  text-decoration: underline;
-}
-
-.certlink:hover {
-  color: $theme-mint;
-}
-
-=======
-/*-- scss:rules --*/
->>>>>>> c1b4a58357e726f9e59594646ce582f8077a73ec
 
 // Navbar hover
 .navbar .nav-link:hover,
@@ -85,17 +66,6 @@ $font-size-root: 15px;
   padding-top: 1em;
 }
 
-// table
-
-table {
-  width: 100%;
-  border-collapse: collapse;
-}
-
-td {
-  padding: 5px;
-  vertical-align: top;
-}
 
 
 // theme toggler
