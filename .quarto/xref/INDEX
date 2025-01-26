@@ -31,5 +31,8 @@
   },
   "blog/index.qmd": {
     "index.html": "0021823b"
+  },
+  "conf/index.qmd": {
+    "index.html": "393e511a"
   }
 }

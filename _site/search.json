@@ -11,7 +11,14 @@
     "href": "index.html",
     "title": "Aleksandar Vujić",
     "section": "",
-    "text": "This will be my personal website. I am sick of not being able to find a job. Not decent job, any job! I am about to finish my PhD in psychology - problematic smartphone use, that is. I do stats in R, sometimes in SPSS and JASP. I am learning Python and Web development, not extremely successfully.\n\n aleksandar.vujic@yandex.com"
+    "text": "This will be my personal website. I am sick of not being able to find a job. Not decent job, any job! I am about to finish my PhD in psychology - problematic smartphone use, that is. I do stats in R, sometimes in SPSS and JASP. I am learning Python and Web development, not extremely successfully.\n\n vujic.aleksandar@ppk.elte.hu"
+  },
+  {
+    "objectID": "conf/index.html",
+    "href": "conf/index.html",
+    "title": "Conferences",
+    "section": "",
+    "text": "European Conference on Innovation Management, Budapest - participation\n\n\n2024\n\n\n\n\nSport Tudomány–Egészség Konferencia (VI.) – presentation\n\n\n2023\n\n\n\n\nInternational Training School on Problematic Internet Usage, COST Action\n\n\n2020\n\n\n\n\nCurrent Trends in Psychology Conference – poster presentation\n\n\n2017"
   },
   {
     "objectID": "blog/second-post/index.html",
@@ -49,6 +56,13 @@
     "text": "Responsible and reliable psychologist and researcher, highly motivated to gather knowledge and assimilate new concepts in teaching, customer support, HR, statistics, data science, analytics as well as in communications. Ready to contribute to the collective progress and the well-being of its members."
   },
   {
+    "objectID": "CV.html#skills",
+    "href": "CV.html#skills",
+    "title": "Professional Summary",
+    "section": "Skills",
+    "text": "Skills\n\nR\nPython\nSPSS\nPsychometrics"
+  },
+  {
     "objectID": "CV.html#education",
     "href": "CV.html#education",
     "title": "Professional Summary",
@@ -63,17 +77,17 @@
     "text": "Experience\nKaroli Gaspar University, Budapest | Statistics lecturer | Present\nProductive Playhouse Inc | Transcriber | Jun-Nov 2024\nELTE Eotvos Lorand University, Budapest | Statistics lecturer | Sep-2023 – Jan-2024\n\nInternships\nMilitary Medical Center, Novi Sad | psychology intern\nPreschool Institution in Novi Sad | psychology intern\nGeriatric Center Novi Sad | psychology intern"
   },
   {
-    "objectID": "CV.html#skills",
-    "href": "CV.html#skills",
-    "title": "Professional Summary",
-    "section": "Skills",
-    "text": "Skills\n\nR\nPython\nSPSS\nPsychometrics"
-  },
-  {
     "objectID": "CV.html#languages",
     "href": "CV.html#languages",
     "title": "Professional Summary",
     "section": "Languages",
     "text": "Languages\n\nSerbian\nEnglish\nRussian\nChinese"
+  },
+  {
+    "objectID": "CV.html#certificates",
+    "href": "CV.html#certificates",
+    "title": "Professional Summary",
+    "section": "Certificates",
+    "text": "Certificates\n\nTOEFL\nHSK5 / HSKK intermediate\nNine completed tracks on Data Camp, 115 courses in total\nUdemy - Complete Machine learning with R"
   }
 ]
