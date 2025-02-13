@@ -12,6 +12,9 @@ about: # https://quarto.org/docs/websites/website-about.html
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/aleksandar-vujic/
+    - icon: github
+      text: GitHub
+      href: https://github.com/Alex0902993
 ---
 
 
