@@ -18,12 +18,12 @@ about: # https://quarto.org/docs/websites/website-about.html
 ---
 
 
-This will be my personal website. I am sick of not being able to find a job. Not decent job, any job!
-I am about to finish my PhD in psychology - problematic smartphone use, that is. I do stats in R, sometimes in SPSS and JASP. I am learning Python and Web development, not extremely successfully. 
+This will be my personal website. It is a work in progress.
+I recently earned my PhD in psychology researching problematic smartphone use. I do stats in R, SPSS and JASP and other software. I am learning Python and web development, and programming in general.  
 
 <div>
 
-  <img src="envelope-regular.svg" alt="email" style="height: 1em;"> vujic.aleksandar@ppk.elte.hu
+  <img src="envelope-regular.svg" alt="email" style="height: 1em;"> <vujic.aleksandar@ppk.elte.hu>
   
 </div>
 

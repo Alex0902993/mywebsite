@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.57">
+<meta name="generator" content="quarto-1.6.39">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -34,14 +34,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-e26003cea8cd680ca0c55a263523d882.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<<<<<<< HEAD
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
-=======
-<link href="site_libs/bootstrap/bootstrap-b7537dbbd4dc2936d3154ce035308106.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
->>>>>>> c1b4a58357e726f9e59594646ce582f8077a73ec
+<link href="site_libs/bootstrap/bootstrap-1214e5bf1400984769c1d303a6cad6e7.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -73,7 +69,7 @@ ul.task-list li input[type="checkbox"] {
 
 <meta property="og:title" content="Aleksandar Vujić – Home">
 <meta property="og:description" content="psychologist">
-<meta property="og:image" content="https://alexvujic.quarto.pub/home/vujic_photo.jpeg">
+<meta property="og:image" content="vujic_photo.jpeg">
 <meta property="og:site_name" content="Home">
 </head>
 
@@ -146,11 +142,15 @@ ul.task-list li input[type="checkbox"] {
     <i class="bi bi-linkedin"></i>
      <span class="about-link-text">LinkedIn</span>
   </a>
+  <a href="https://github.com/Alex0902993" class="about-link" rel="" target="">
+    <i class="bi bi-github"></i>
+     <span class="about-link-text">GitHub</span>
+  </a>
 </div>
       <div class="about-contents"><main class="content" id="quarto-document-content">
-<p>This will be my personal website. I am sick of not being able to find a job. Not decent job, any job! I am about to finish my PhD in psychology - problematic smartphone use, that is. I do stats in R, sometimes in SPSS and JASP. I am learning Python and Web development, not extremely successfully.</p>
+<p>This will be my personal website. It is a work in progress. I recently earned my PhD in psychology researching problematic smartphone use. I do stats in R, SPSS and JASP and other software. I am learning Python and web development, and programming in general.</p>
 <div>
-<p><img src="envelope-regular.svg" alt="email" style="height: 1em;"> vujic.aleksandar@ppk.elte.hu</p>
+<p><img src="envelope-regular.svg" alt="email" style="height: 1em;"> <a href="mailto:vujic.aleksandar@ppk.elte.hu" class="email">vujic.aleksandar@ppk.elte.hu</a></p>
 </div>
 
 
@@ -236,8 +236,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -246,7 +244,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/alexvujic\.quarto\.pub\/home");
+      var filterRegex = new RegExp('/' + window.location.host + '/');
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
@@ -348,7 +346,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {
