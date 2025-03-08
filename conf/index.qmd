@@ -4,7 +4,7 @@ title: "Conferences"
 
 <table>
   <tr>
-    <td>European Conference on Innovation Management, Budapest - participation</td>
+    <td>International Value Conference - New Competencies on the Horizon, Budapest - participation</td>
     <td><span class="year-text">2024</span></td>
   </tr>
   <tr>
