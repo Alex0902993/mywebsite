@@ -1,7 +1,7 @@
 ---
 title: "Aleksandar Vujić"
 subtitle: <span class="profession-text">psychologist</span>
-image: vujic_photo.jpeg
+image: "assets/images/vujic_photo.jpeg"
 about: # https://quarto.org/docs/websites/website-about.html
   template: solana
   image-shape: rounded
@@ -23,7 +23,7 @@ I recently earned my PhD in psychology researching problematic smartphone use. I
 
 <div>
 
-  <img src="envelope-regular.svg" alt="email" style="height: 1em;"> <vujic.aleksandar@ppk.elte.hu>
+  <img src="assets/images/envelope.svg" alt="email" style="height: 1em;"> <vujic.aleksandar@ppk.elte.hu>
   
 </div>
 
