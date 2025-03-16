@@ -2,6 +2,10 @@
 title: Professional Summary
 ---
 
+<a href="files/Aleksandar_Vujic_CV_2025.pdf" download class="btn btn-primary">
+  Download PDF
+</a>
+
 Responsible and reliable psychologist and researcher, highly motivated to gather knowledge and assimilate new concepts in teaching, customer support, HR, statistics, data science, analytics as well as in communications. Ready to contribute to the collective progress and the well-being of its members.
 
 ## Skills

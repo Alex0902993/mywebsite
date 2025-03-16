@@ -4,19 +4,19 @@ title: "Conferences"
 
 <table>
   <tr>
-    <td>International Value Conference - New Competencies on the Horizon, Budapest - participation</td>
+    <td>International Value Conference, Budapest - participation</td>
     <td><span class="year-text">2024</span></td>
   </tr>
   <tr>
-    <td>Sport Tudomány–Egészség Konferencia (VI.) – presentation</td>
+    <td>Sport Tudomány–Egészség Konferencia (VI.), Budapest – presentation</td>
     <td><span class="year-text">2023</span></td>
   </tr>
   <tr>
-    <td>International Training School on Problematic Internet Usage, COST Action</td>
+    <td>International Training School on Problematic Internet Usage, COST Action, online</td>
     <td><span class="year-text">2020</span></td>
   </tr>
   <tr>
-    <td>Current Trends in Psychology Conference – poster presentation</td>
+    <td>Current Trends in Psychology Conference, Novi Sad – poster presentation</td>
     <td><span class="year-text">2017</span></td>
   </tr>
 </table>
