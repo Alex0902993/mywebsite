@@ -2,7 +2,7 @@
 title: Professional Summary
 ---
 
-<a href="files/Aleksandar_Vujic_CV_2025.pdf" download class="btn btn-primary">
+<a href="docs/files/Aleksandar_Vujic_CV_2025.pdf" download class="btn btn-primary">
   Download PDF
 </a>
 

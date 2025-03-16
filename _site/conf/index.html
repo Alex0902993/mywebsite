@@ -148,7 +148,7 @@ ul.task-list li input[type="checkbox"] {
 <table>
 <tbody><tr>
 <td>
-International Value Conference - New Competencies on the Horizon, Budapest - participation
+International Value Conference, Budapest - participation
 </td>
 <td>
 <span class="year-text">2024</span>
@@ -156,7 +156,7 @@ International Value Conference - New Competencies on the Horizon, Budapest - par
 </tr>
 <tr>
 <td>
-Sport Tudomány–Egészség Konferencia (VI.) – presentation
+Sport Tudomány–Egészség Konferencia (VI.), Budapest – presentation
 </td>
 <td>
 <span class="year-text">2023</span>
@@ -164,7 +164,7 @@ Sport Tudomány–Egészség Konferencia (VI.) – presentation
 </tr>
 <tr>
 <td>
-International Training School on Problematic Internet Usage, COST Action
+International Training School on Problematic Internet Usage, COST Action, online
 </td>
 <td>
 <span class="year-text">2020</span>
@@ -172,7 +172,7 @@ International Training School on Problematic Internet Usage, COST Action
 </tr>
 <tr>
 <td>
-Current Trends in Psychology Conference – poster presentation
+Current Trends in Psychology Conference, Novi Sad – poster presentation
 </td>
 <td>
 <span class="year-text">2017</span>
@@ -273,7 +273,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/alexvujic\.quarto\.pub\/home");
+      var filterRegex = new RegExp('/' + window.location.host + '/');
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
